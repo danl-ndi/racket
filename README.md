@@ -10,6 +10,8 @@ To build the full Racket distribution from this repository, run `make`
 in the top-level directory. To build the Minimal Racket, run `make
 base`.
 
+Blah blah blah...
+
 The rest of the Racket distribution source code is in other
 repositories under [the Racket GitHub
 organization](https://github.com/racket).
